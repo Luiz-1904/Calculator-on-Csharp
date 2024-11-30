@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FcesHQHT6w5Em6u0Je8vdwT7ALhUJJ94RIEIi5C7DC1RnoK/2QsRnXi8BxgoewFfGvgH3XxSw+fAlT8/l9ZWDg==",
+  "success": true,
+  "projectFilePath": "/home/luiz/coisasqueeuuso/Codigos/MathOperations/MathOperations.csproj",
+  "expectedPackageFiles": [
+    "/home/luiz/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

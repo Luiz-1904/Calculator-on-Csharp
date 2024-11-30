@@ -1,0 +1,14 @@
+/home/luiz/coisasqueeuuso/Codigos/MathOperations/bin/Debug/net8.0/MathOperations
+/home/luiz/coisasqueeuuso/Codigos/MathOperations/bin/Debug/net8.0/MathOperations.deps.json
+/home/luiz/coisasqueeuuso/Codigos/MathOperations/bin/Debug/net8.0/MathOperations.runtimeconfig.json
+/home/luiz/coisasqueeuuso/Codigos/MathOperations/bin/Debug/net8.0/MathOperations.dll
+/home/luiz/coisasqueeuuso/Codigos/MathOperations/bin/Debug/net8.0/MathOperations.pdb
+/home/luiz/coisasqueeuuso/Codigos/MathOperations/obj/Debug/net8.0/MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+/home/luiz/coisasqueeuuso/Codigos/MathOperations/obj/Debug/net8.0/MathOperations.AssemblyInfoInputs.cache
+/home/luiz/coisasqueeuuso/Codigos/MathOperations/obj/Debug/net8.0/MathOperations.AssemblyInfo.cs
+/home/luiz/coisasqueeuuso/Codigos/MathOperations/obj/Debug/net8.0/MathOperations.csproj.CoreCompileInputs.cache
+/home/luiz/coisasqueeuuso/Codigos/MathOperations/obj/Debug/net8.0/MathOperations.dll
+/home/luiz/coisasqueeuuso/Codigos/MathOperations/obj/Debug/net8.0/refint/MathOperations.dll
+/home/luiz/coisasqueeuuso/Codigos/MathOperations/obj/Debug/net8.0/MathOperations.pdb
+/home/luiz/coisasqueeuuso/Codigos/MathOperations/obj/Debug/net8.0/MathOperations.genruntimeconfig.cache
+/home/luiz/coisasqueeuuso/Codigos/MathOperations/obj/Debug/net8.0/ref/MathOperations.dll
