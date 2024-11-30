@@ -28,7 +28,7 @@ class MathOperation
         var num2 = validNumber("Choose the second number: ");
         Console.WriteLine();
 
-        Console.Write("Choose an operator (+ - / *)");
+        Console.Write("Choose an operator (+ - / *): ");
         var op = Console.ReadLine();
         Console.WriteLine();
 
@@ -36,7 +36,7 @@ class MathOperation
         Console.WriteLine();
         Console.WriteLine("----------------------------------");
 
-        Console.Write("Do another calculation? (Y/N):");
+        Console.Write("Do another calculation? (Y/N): ");
         string answer = Console.ReadLine();
         answer = answer.ToUpper();
         Console.WriteLine();
